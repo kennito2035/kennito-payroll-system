@@ -1,4 +1,4 @@
-# Kennito Industries — Payroll System
+# Kennito Industries Payroll System
 
 A **Computer Programming II laboratory activity** - a desktop payroll calculator built with **Java Swing**. Enter employee details, compute gross pay automatically, view a formatted summary, and export every record to a CSV file saved alongside the program.
 
